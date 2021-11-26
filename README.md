@@ -12,8 +12,11 @@ Create a codebase that follows accessibility standards so that the Horision Soci
 - Clone the repository that containes the starter code into your desktop 
 - Navigate through the directory to open up the HTML and CSS files in your browser 
 
-## Website 
-file:///Users/helen/Desktop/Bootcamp/projects/code-refractor/index.html#search-engine-optimization
+## Deployed URL
+https://htariku.github.io/code-refractor/
+
+## GitHub Repo
+https://github.com/htariku/code-refractor
 
 ## Contribution 
 - Helen Tariku 
@@ -21,3 +24,7 @@ file:///Users/helen/Desktop/Bootcamp/projects/code-refractor/index.html#search-e
 
 ## CopyRight 
 &copy; 2019 Horiseon Social Solution Services, Inc.
+
+## Screenshot
+
+<img width="1212" alt="Screen Shot 2021-11-26 at 9 29 45 AM" src="https://user-images.githubusercontent.com/94089824/143595942-d0dde59f-2868-4f2c-aeae-eb60a2ab17b9.png">
